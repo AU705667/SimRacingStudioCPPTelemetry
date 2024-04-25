@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.0)
+project(SRSTelemetryTest) # Project name is set to SRSTelemetryTest
+
+# Add your source file
+add_executable(SRSTelemetryTest SRSTelemetry.cpp) # Executable name is set to SRSTelemetryTest
